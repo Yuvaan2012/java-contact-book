@@ -31,7 +31,7 @@ Make sure you have [Java JDK](https://oracle.com) and [Maven](https://apache.org
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Yuvaan2012/java-contact-book.git
    cd java-contact-book
    ```
 2. Compile and package the project:
