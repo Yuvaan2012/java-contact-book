@@ -32,7 +32,7 @@ Make sure you have [Java JDK](https://oracle.com) and [Maven](https://apache.org
 1. Clone the repository:
    ```bash
    git clone https://github.com
-   cd YOUR_REPOSITORY_NAME
+   cd java-contact-book
    ```
 2. Compile and package the project:
    ```bash
